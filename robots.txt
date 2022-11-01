@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://vuepress-theme-hope-docs-demo.netlify.app/start-side-life-in-taiwan/sitemap.xml
+Sitemap: https://vuepress-theme-hope-docs-demo.netlify.app/start-side-job-and-make-money-in-taiwan/sitemap.xml
